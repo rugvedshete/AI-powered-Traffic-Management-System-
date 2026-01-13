@@ -47,12 +47,6 @@ This  comparison is tested on jetson nano
 </p>
 
 
-## Devices Used
-
-- Nvidia Jetson Nano
-- Ip camera
-
-
 
 ## Project directory
 ```
